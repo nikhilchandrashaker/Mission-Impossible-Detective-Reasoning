@@ -1,0 +1,121 @@
+case_id,entity_id,entity_name,entity_role,investigative_prompt,source_note
+1,01-S1,Gabriel,primary_subject,Assess Gabriel against the evidence for Case 1.,film-derived participant/subject
+1,01-S2,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 1.,film-derived participant/subject
+1,01-S3,Grace,known_actor,Assess Grace against the evidence for Case 1.,film-derived participant/subject
+1,01-S4,Operational failure,decoy_hypothesis,Assess Operational failure against the evidence for Case 1.,game-generated candidate; not a claim that this person is a suspect in the film
+2,02-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 2.,film-derived participant/subject
+2,02-S2,Ilsa Faust,known_actor,Assess Ilsa Faust against the evidence for Case 2.,film-derived participant/subject
+2,02-S3,hostile pursuers,known_actor,Assess hostile pursuers against the evidence for Case 2.,film-derived participant/subject
+2,02-S4,Operational failure,decoy_hypothesis,Assess Operational failure against the evidence for Case 2.,game-generated candidate; not a claim that this person is a suspect in the film
+3,03-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 3.,film-derived participant/subject
+3,03-S2,Bogdan,primary_subject,Assess Bogdan against the evidence for Case 3.,film-derived participant/subject
+3,03-S3,Benji Dunn,known_actor,Assess Benji Dunn against the evidence for Case 3.,film-derived participant/subject
+3,03-S4,Operational failure,decoy_hypothesis,Assess Operational failure against the evidence for Case 3.,game-generated candidate; not a claim that this person is a suspect in the film
+4,04-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 4.,film-derived participant/subject
+4,04-S2,Zoismov,known_actor,Assess Zoismov against the evidence for Case 4.,film-derived participant/subject
+4,04-S3,IMF team,known_actor,Assess IMF team against the evidence for Case 4.,film-derived participant/subject
+4,04-S4,Operational failure,decoy_hypothesis,Assess Operational failure against the evidence for Case 4.,game-generated candidate; not a claim that this person is a suspect in the film
+5,05-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 5.,film-derived participant/subject
+5,05-S2,Nyah Nordoff-Hall,primary_subject,Assess Nyah Nordoff-Hall against the evidence for Case 5.,film-derived participant/subject
+5,05-S3,Sean Ambrose,known_actor,Assess Sean Ambrose against the evidence for Case 5.,film-derived participant/subject
+5,05-S4,Operational failure,decoy_hypothesis,Assess Operational failure against the evidence for Case 5.,game-generated candidate; not a claim that this person is a suspect in the film
+6,06-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 6.,film-derived participant/subject
+6,06-S2,Grace,primary_subject,Assess Grace against the evidence for Case 6.,film-derived participant/subject
+6,06-S3,Entity,known_actor,Assess Entity against the evidence for Case 6.,film-derived participant/subject
+6,06-S4,Operational failure,decoy_hypothesis,Assess Operational failure against the evidence for Case 6.,game-generated candidate; not a claim that this person is a suspect in the film
+7,07-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 7.,film-derived participant/subject
+7,07-S2,Sean Ambrose,primary_subject,Assess Sean Ambrose against the evidence for Case 7.,film-derived participant/subject
+7,07-S3,Nyah,known_actor,Assess Nyah against the evidence for Case 7.,film-derived participant/subject
+7,07-S4,Operational failure,decoy_hypothesis,Assess Operational failure against the evidence for Case 7.,game-generated candidate; not a claim that this person is a suspect in the film
+8,08-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 8.,film-derived participant/subject
+8,08-S2,Jim Phelps,known_actor,Assess Jim Phelps against the evidence for Case 8.,film-derived participant/subject
+8,08-S3,Alexander Golitsyn,known_actor,Assess Alexander Golitsyn against the evidence for Case 8.,film-derived participant/subject
+8,08-S4,Max,known_actor,Assess Max against the evidence for Case 8.,film-derived participant/subject
+9,09-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 9.,film-derived participant/subject
+9,09-S2,Luther Stickell,known_actor,Assess Luther Stickell against the evidence for Case 9.,film-derived participant/subject
+9,09-S3,Apostles,known_actor,Assess Apostles against the evidence for Case 9.,film-derived participant/subject
+9,09-S4,Operational failure,decoy_hypothesis,Assess Operational failure against the evidence for Case 9.,game-generated candidate; not a claim that this person is a suspect in the film
+10,10-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 10.,film-derived participant/subject
+10,10-S2,Benji Dunn,known_actor,Assess Benji Dunn against the evidence for Case 10.,film-derived participant/subject
+10,10-S3,Owen Davian,known_actor,Assess Owen Davian against the evidence for Case 10.,film-derived participant/subject
+10,10-S4,Operational failure,decoy_hypothesis,Assess Operational failure against the evidence for Case 10.,game-generated candidate; not a claim that this person is a suspect in the film
+11,11-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 11.,film-derived participant/subject
+11,11-S2,Solomon Lane,primary_subject,Assess Solomon Lane against the evidence for Case 11.,film-derived participant/subject
+11,11-S3,August Walker,known_actor,Assess August Walker against the evidence for Case 11.,film-derived participant/subject
+11,11-S4,French police,known_actor,Assess French police against the evidence for Case 11.,film-derived participant/subject
+12,12-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 12.,film-derived participant/subject
+12,12-S2,Max,known_actor,Assess Max against the evidence for Case 12.,film-derived participant/subject
+12,12-S3,Jim Phelps,known_actor,Assess Jim Phelps against the evidence for Case 12.,film-derived participant/subject
+12,12-S4,Claire,known_actor,Assess Claire against the evidence for Case 12.,film-derived participant/subject
+13,13-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 13.,film-derived participant/subject
+13,13-S2,Benji Dunn,known_actor,Assess Benji Dunn against the evidence for Case 13.,film-derived participant/subject
+13,13-S3,Luther Stickell,known_actor,Assess Luther Stickell against the evidence for Case 13.,film-derived participant/subject
+13,13-S4,Ilsa Faust,known_actor,Assess Ilsa Faust against the evidence for Case 13.,film-derived participant/subject
+14,14-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 14.,film-derived participant/subject
+14,14-S2,Benji Dunn,known_actor,Assess Benji Dunn against the evidence for Case 14.,film-derived participant/subject
+14,14-S3,Syndicate,known_actor,Assess Syndicate against the evidence for Case 14.,film-derived participant/subject
+14,14-S4,Operational failure,decoy_hypothesis,Assess Operational failure against the evidence for Case 14.,game-generated candidate; not a claim that this person is a suspect in the film
+15,15-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 15.,film-derived participant/subject
+15,15-S2,Nyah Nordoff-Hall,known_actor,Assess Nyah Nordoff-Hall against the evidence for Case 15.,film-derived participant/subject
+15,15-S3,Sean Ambrose,known_actor,Assess Sean Ambrose against the evidence for Case 15.,film-derived participant/subject
+15,15-S4,Operational failure,decoy_hypothesis,Assess Operational failure against the evidence for Case 15.,game-generated candidate; not a claim that this person is a suspect in the film
+16,16-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 16.,film-derived participant/subject
+16,16-S2,August Walker,known_actor,Assess August Walker against the evidence for Case 16.,film-derived participant/subject
+16,16-S3,White Widow,known_actor,Assess White Widow against the evidence for Case 16.,film-derived participant/subject
+16,16-S4,Apostles,known_actor,Assess Apostles against the evidence for Case 16.,film-derived participant/subject
+17,17-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 17.,film-derived participant/subject
+17,17-S2,Lindsey Farris,primary_subject,Assess Lindsey Farris against the evidence for Case 17.,film-derived participant/subject
+17,17-S3,Owen Davian,known_actor,Assess Owen Davian against the evidence for Case 17.,film-derived participant/subject
+17,17-S4,Operational failure,decoy_hypothesis,Assess Operational failure against the evidence for Case 17.,game-generated candidate; not a claim that this person is a suspect in the film
+18,18-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 18.,film-derived participant/subject
+18,18-S2,Grace,known_actor,Assess Grace against the evidence for Case 18.,film-derived participant/subject
+18,18-S3,Entity,known_actor,Assess Entity against the evidence for Case 18.,film-derived participant/subject
+18,18-S4,Operational failure,decoy_hypothesis,Assess Operational failure against the evidence for Case 18.,game-generated candidate; not a claim that this person is a suspect in the film
+19,19-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 19.,film-derived participant/subject
+19,19-S2,Grace,known_actor,Assess Grace against the evidence for Case 19.,film-derived participant/subject
+19,19-S3,Entity agents,known_actor,Assess Entity agents against the evidence for Case 19.,film-derived participant/subject
+19,19-S4,Operational failure,decoy_hypothesis,Assess Operational failure against the evidence for Case 19.,game-generated candidate; not a claim that this person is a suspect in the film
+20,20-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 20.,film-derived participant/subject
+20,20-S2,Benji Dunn,known_actor,Assess Benji Dunn against the evidence for Case 20.,film-derived participant/subject
+20,20-S3,Ilsa Faust,known_actor,Assess Ilsa Faust against the evidence for Case 20.,film-derived participant/subject
+20,20-S4,Solomon Lane,known_actor,Assess Solomon Lane against the evidence for Case 20.,film-derived participant/subject
+21,21-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 21.,film-derived participant/subject
+21,21-S2,Luther Stickell,known_actor,Assess Luther Stickell against the evidence for Case 21.,film-derived participant/subject
+21,21-S3,Franz Krieger,known_actor,Assess Franz Krieger against the evidence for Case 21.,film-derived participant/subject
+21,21-S4,Claire,known_actor,Assess Claire against the evidence for Case 21.,film-derived participant/subject
+22,22-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 22.,film-derived participant/subject
+22,22-S2,Benji Dunn,known_actor,Assess Benji Dunn against the evidence for Case 22.,film-derived participant/subject
+22,22-S3,Kurt Hendricks,known_actor,Assess Kurt Hendricks against the evidence for Case 22.,film-derived participant/subject
+22,22-S4,Operational failure,decoy_hypothesis,Assess Operational failure against the evidence for Case 22.,game-generated candidate; not a claim that this person is a suspect in the film
+23,23-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 23.,film-derived participant/subject
+23,23-S2,Benji Dunn,known_actor,Assess Benji Dunn against the evidence for Case 23.,film-derived participant/subject
+23,23-S3,William Brandt,known_actor,Assess William Brandt against the evidence for Case 23.,film-derived participant/subject
+23,23-S4,Jane Carter,known_actor,Assess Jane Carter against the evidence for Case 23.,film-derived participant/subject
+24,24-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 24.,film-derived participant/subject
+24,24-S2,Benji Dunn,known_actor,Assess Benji Dunn against the evidence for Case 24.,film-derived participant/subject
+24,24-S3,Ilsa Faust,known_actor,Assess Ilsa Faust against the evidence for Case 24.,film-derived participant/subject
+24,24-S4,Solomon Lane,known_actor,Assess Solomon Lane against the evidence for Case 24.,film-derived participant/subject
+25,25-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 25.,film-derived participant/subject
+25,25-S2,Nyah Nordoff-Hall,known_actor,Assess Nyah Nordoff-Hall against the evidence for Case 25.,film-derived participant/subject
+25,25-S3,Sean Ambrose,known_actor,Assess Sean Ambrose against the evidence for Case 25.,film-derived participant/subject
+25,25-S4,Operational failure,decoy_hypothesis,Assess Operational failure against the evidence for Case 25.,game-generated candidate; not a claim that this person is a suspect in the film
+26,26-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 26.,film-derived participant/subject
+26,26-S2,Grace,known_actor,Assess Grace against the evidence for Case 26.,film-derived participant/subject
+26,26-S3,Benji Dunn,known_actor,Assess Benji Dunn against the evidence for Case 26.,film-derived participant/subject
+26,26-S4,Luther Stickell,known_actor,Assess Luther Stickell against the evidence for Case 26.,film-derived participant/subject
+27,27-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 27.,film-derived participant/subject
+27,27-S2,Grace,known_actor,Assess Grace against the evidence for Case 27.,film-derived participant/subject
+27,27-S3,Gabriel,known_actor,Assess Gabriel against the evidence for Case 27.,film-derived participant/subject
+27,27-S4,Benji Dunn,known_actor,Assess Benji Dunn against the evidence for Case 27.,film-derived participant/subject
+28,28-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 28.,film-derived participant/subject
+28,28-S2,Luther Stickell,known_actor,Assess Luther Stickell against the evidence for Case 28.,film-derived participant/subject
+28,28-S3,Benji Dunn,known_actor,Assess Benji Dunn against the evidence for Case 28.,film-derived participant/subject
+28,28-S4,Owen Davian,primary_subject,Assess Owen Davian against the evidence for Case 28.,film-derived participant/subject
+29,29-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 29.,film-derived participant/subject
+29,29-S2,Benji Dunn,known_actor,Assess Benji Dunn against the evidence for Case 29.,film-derived participant/subject
+29,29-S3,Luther Stickell,known_actor,Assess Luther Stickell against the evidence for Case 29.,film-derived participant/subject
+29,29-S4,Ilsa Faust,known_actor,Assess Ilsa Faust against the evidence for Case 29.,film-derived participant/subject
+30,30-S1,Ethan Hunt,known_actor,Assess Ethan Hunt against the evidence for Case 30.,film-derived participant/subject
+30,30-S2,Benji Dunn,known_actor,Assess Benji Dunn against the evidence for Case 30.,film-derived participant/subject
+30,30-S3,Jane Carter,known_actor,Assess Jane Carter against the evidence for Case 30.,film-derived participant/subject
+30,30-S4,William Brandt,known_actor,Assess William Brandt against the evidence for Case 30.,film-derived participant/subject

@@ -1,0 +1,151 @@
+case_id,question_id,question_type,question_text,response_format,difficulty
+1,01-Q01,primary,Identify the central subject/problem in Case 1.,short_answer,intermediate
+1,01-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,intermediate
+1,01-Q03,timeline,What is the critical sequence of events?,ordering,intermediate
+1,01-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,intermediate
+1,01-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,intermediate
+2,02-Q01,primary,Identify the central subject/problem in Case 2.,short_answer,intermediate
+2,02-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,intermediate
+2,02-Q03,timeline,What is the critical sequence of events?,ordering,intermediate
+2,02-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,intermediate
+2,02-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,intermediate
+3,03-Q01,primary,Identify the central subject/problem in Case 3.,short_answer,standard
+3,03-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,standard
+3,03-Q03,timeline,What is the critical sequence of events?,ordering,standard
+3,03-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,standard
+3,03-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,standard
+4,04-Q01,primary,Identify the central subject/problem in Case 4.,short_answer,intermediate
+4,04-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,intermediate
+4,04-Q03,timeline,What is the critical sequence of events?,ordering,intermediate
+4,04-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,intermediate
+4,04-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,intermediate
+5,05-Q01,primary,Identify the central subject/problem in Case 5.,short_answer,intermediate
+5,05-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,intermediate
+5,05-Q03,timeline,What is the critical sequence of events?,ordering,intermediate
+5,05-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,intermediate
+5,05-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,intermediate
+6,06-Q01,primary,Identify the central subject/problem in Case 6.,short_answer,standard
+6,06-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,standard
+6,06-Q03,timeline,What is the critical sequence of events?,ordering,standard
+6,06-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,standard
+6,06-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,standard
+7,07-Q01,primary,Identify the central subject/problem in Case 7.,short_answer,intermediate
+7,07-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,intermediate
+7,07-Q03,timeline,What is the critical sequence of events?,ordering,intermediate
+7,07-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,intermediate
+7,07-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,intermediate
+8,08-Q01,primary,Identify the central subject/problem in Case 8.,short_answer,advanced
+8,08-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,advanced
+8,08-Q03,timeline,What is the critical sequence of events?,ordering,advanced
+8,08-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,advanced
+8,08-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,advanced
+9,09-Q01,primary,Identify the central subject/problem in Case 9.,short_answer,standard
+9,09-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,standard
+9,09-Q03,timeline,What is the critical sequence of events?,ordering,standard
+9,09-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,standard
+9,09-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,standard
+10,10-Q01,primary,Identify the central subject/problem in Case 10.,short_answer,intermediate
+10,10-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,intermediate
+10,10-Q03,timeline,What is the critical sequence of events?,ordering,intermediate
+10,10-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,intermediate
+10,10-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,intermediate
+11,11-Q01,primary,Identify the central subject/problem in Case 11.,short_answer,intermediate
+11,11-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,intermediate
+11,11-Q03,timeline,What is the critical sequence of events?,ordering,intermediate
+11,11-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,intermediate
+11,11-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,intermediate
+12,12-Q01,primary,Identify the central subject/problem in Case 12.,short_answer,advanced
+12,12-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,advanced
+12,12-Q03,timeline,What is the critical sequence of events?,ordering,advanced
+12,12-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,advanced
+12,12-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,advanced
+13,13-Q01,primary,Identify the central subject/problem in Case 13.,short_answer,intermediate
+13,13-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,intermediate
+13,13-Q03,timeline,What is the critical sequence of events?,ordering,intermediate
+13,13-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,intermediate
+13,13-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,intermediate
+14,14-Q01,primary,Identify the central subject/problem in Case 14.,short_answer,intermediate
+14,14-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,intermediate
+14,14-Q03,timeline,What is the critical sequence of events?,ordering,intermediate
+14,14-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,intermediate
+14,14-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,intermediate
+15,15-Q01,primary,Identify the central subject/problem in Case 15.,short_answer,standard
+15,15-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,standard
+15,15-Q03,timeline,What is the critical sequence of events?,ordering,standard
+15,15-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,standard
+15,15-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,standard
+16,16-Q01,primary,Identify the central subject/problem in Case 16.,short_answer,advanced
+16,16-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,advanced
+16,16-Q03,timeline,What is the critical sequence of events?,ordering,advanced
+16,16-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,advanced
+16,16-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,advanced
+17,17-Q01,primary,Identify the central subject/problem in Case 17.,short_answer,intermediate
+17,17-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,intermediate
+17,17-Q03,timeline,What is the critical sequence of events?,ordering,intermediate
+17,17-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,intermediate
+17,17-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,intermediate
+18,18-Q01,primary,Identify the central subject/problem in Case 18.,short_answer,standard
+18,18-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,standard
+18,18-Q03,timeline,What is the critical sequence of events?,ordering,standard
+18,18-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,standard
+18,18-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,standard
+19,19-Q01,primary,Identify the central subject/problem in Case 19.,short_answer,advanced
+19,19-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,advanced
+19,19-Q03,timeline,What is the critical sequence of events?,ordering,advanced
+19,19-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,advanced
+19,19-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,advanced
+20,20-Q01,primary,Identify the central subject/problem in Case 20.,short_answer,intermediate
+20,20-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,intermediate
+20,20-Q03,timeline,What is the critical sequence of events?,ordering,intermediate
+20,20-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,intermediate
+20,20-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,intermediate
+21,21-Q01,primary,Identify the central subject/problem in Case 21.,short_answer,standard
+21,21-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,standard
+21,21-Q03,timeline,What is the critical sequence of events?,ordering,standard
+21,21-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,standard
+21,21-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,standard
+22,22-Q01,primary,Identify the central subject/problem in Case 22.,short_answer,intermediate
+22,22-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,intermediate
+22,22-Q03,timeline,What is the critical sequence of events?,ordering,intermediate
+22,22-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,intermediate
+22,22-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,intermediate
+23,23-Q01,primary,Identify the central subject/problem in Case 23.,short_answer,intermediate
+23,23-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,intermediate
+23,23-Q03,timeline,What is the critical sequence of events?,ordering,intermediate
+23,23-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,intermediate
+23,23-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,intermediate
+24,24-Q01,primary,Identify the central subject/problem in Case 24.,short_answer,advanced
+24,24-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,advanced
+24,24-Q03,timeline,What is the critical sequence of events?,ordering,advanced
+24,24-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,advanced
+24,24-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,advanced
+25,25-Q01,primary,Identify the central subject/problem in Case 25.,short_answer,intermediate
+25,25-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,intermediate
+25,25-Q03,timeline,What is the critical sequence of events?,ordering,intermediate
+25,25-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,intermediate
+25,25-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,intermediate
+26,26-Q01,primary,Identify the central subject/problem in Case 26.,short_answer,intermediate
+26,26-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,intermediate
+26,26-Q03,timeline,What is the critical sequence of events?,ordering,intermediate
+26,26-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,intermediate
+26,26-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,intermediate
+27,27-Q01,primary,Identify the central subject/problem in Case 27.,short_answer,advanced
+27,27-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,advanced
+27,27-Q03,timeline,What is the critical sequence of events?,ordering,advanced
+27,27-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,advanced
+27,27-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,advanced
+28,28-Q01,primary,Identify the central subject/problem in Case 28.,short_answer,intermediate
+28,28-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,intermediate
+28,28-Q03,timeline,What is the critical sequence of events?,ordering,intermediate
+28,28-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,intermediate
+28,28-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,intermediate
+29,29-Q01,primary,Identify the central subject/problem in Case 29.,short_answer,intermediate
+29,29-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,intermediate
+29,29-Q03,timeline,What is the critical sequence of events?,ordering,intermediate
+29,29-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,intermediate
+29,29-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,intermediate
+30,30-Q01,primary,Identify the central subject/problem in Case 30.,short_answer,advanced
+30,30-Q02,evidence,Which three clues provide the strongest support for your conclusion?,multi_select,advanced
+30,30-Q03,timeline,What is the critical sequence of events?,ordering,advanced
+30,30-Q04,alternative,"Which plausible alternative explanation should be rejected, and why?",short_answer,advanced
+30,30-Q05,confidence,"How confident are you, and what evidence would change your mind?",free_text,advanced

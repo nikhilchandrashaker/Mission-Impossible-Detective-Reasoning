@@ -1,0 +1,14 @@
+column,description
+case_id,Sequential case number
+case_code,Stable case identifier
+film,Mission: Impossible film
+release_year,Film release year
+mission_name,Name of the mission/case
+location,Primary mission location
+mission_objective,What the IMF is trying to accomplish
+key_people,Important people involved in the case
+core_uncertainty,Main uncertainty or deceptive element
+outcome,Whether the mission objective is ultimately achieved
+outcome_detail,Short factual outcome description
+reasoning_type,Primary reasoning skill useful for solving the case
+detective_question,Question a detective/analyst could answer from the case

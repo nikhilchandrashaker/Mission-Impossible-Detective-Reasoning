@@ -1,0 +1,31 @@
+case_id,case_subject,investigative_goal,solution_summary
+1,Gabriel,Capture/identify Gabriel before the team is neutralized,Gabriel remains the central adversarial target; the case is solved by tracing his movements and the team's countermeasures.
+2,Entity key / first-half holder,Determine who controls the first half of the Entity key,The first key half must be traced through the competing parties rather than trusting the apparent owner.
+3,Bogdan,Assess whether Bogdan's information can be trusted and use it to locate Cobalt,Bogdan is a source whose information must be evaluated against independent evidence.
+4,Gennady Zoismov,Extract intelligence without exposing the operation,The operation succeeds by preserving cover while extracting the required intelligence.
+5,Nyah Nordoff-Hall,Determine whether Nyah can be trusted as an undercover asset,"Nyah is used as an undercover asset because her prior relationship with Ambrose creates access, but that same relationship is a risk factor."
+6,Grace,Determine Grace's true objective in the Entity-key conflict,Grace's behavior is best analyzed through her repeated attempts to obtain the key and her changing explanations.
+7,Sean Ambrose,Infer Ambrose's real objective from his public and covert actions,"Ambrose's covert objective is inferred by connecting his movements, resources, and interest in Chimera."
+8,The IMF mole,Reconstruct the Prague betrayal from surviving evidence,"The Prague operation is a mole-detection problem; Ethan is framed, so the investigator must reconstruct the betrayal rather than accept the initial accusation."
+9,The plutonium cores,Determine how the loss of the cores occurred and which priority decision caused it,"The critical decision is Ethan choosing to save Luther, allowing the plutonium cores to be lost."
+10,Rabbit's Foot,Determine how the object can be recovered from the Shanghai facility,The Rabbit's Foot case is solved by satisfying the building's physical/security constraints and coordinating the extraction.
+11,Solomon Lane,Assess the risks and intelligence value of extracting Lane,Lane is both a dangerous adversary and a valuable intelligence source; the case turns on that tradeoff.
+12,The IMF mole,Reconstruct who betrayed the NOC operation and why Ethan was framed,The mole is identified by reconstructing the mission timeline and comparing who could know each operational detail.
+13,Syndicate ledger,Determine how the ledger can be obtained and what failure point caused the initial setback,The ledger operation fails at first because its synchronized dependencies break; the investigation then adapts.
+14,Syndicate shipment,Identify and intercept the correct nerve-gas shipment,"The correct shipment is identified by combining route, timing, and target characteristics rather than relying on a single clue."
+15,Chimera,Determine how the virus can be destroyed without allowing its release,"The virus threat is solved by combining infiltration, destruction of the threat, and verification that it cannot be released."
+16,John Lark,Determine which identity is genuine and which is a decoy,John Lark is a deliberately deceptive identity problem; the correct conclusion requires comparing identity evidence rather than accepting the public story.
+17,Lindsey Farris,Identify the hidden threat that compromises the rescue,Lindsey's rescue contains a hidden threat that is only discovered by examining what happened after the apparent rescue.
+18,Entity source code,Determine how the source code can be recovered from the wreck,The source-code recovery depends on physical evidence from the wreck and survival constraints.
+19,Second half of Entity key,Identify the correct key carrier among decoys,"The correct key carrier must be distinguished from decoys using movement, possession, and timing evidence."
+20,Solomon Lane / Syndicate,Determine how the ledger can be used to expose the Syndicate,The ledger becomes useful when its information can be connected to independent evidence about the Syndicate.
+21,NOC list,Determine how the CIA vault can be penetrated without triggering detection,The vault operation succeeds only if the environmental/security constraints remain within limits.
+22,Kurt Hendricks / Cobalt,Determine who benefits from the Kremlin incident and reconstruct what happened,The Kremlin incident must be reconstructed causally; the bombing itself is not sufficient evidence to identify the responsible party.
+23,Kurt Hendricks,Determine which synchronized task is critical to stopping the nuclear launch,The nuclear-launch operation is a dependency puzzle: multiple tasks must succeed in the correct sequence.
+24,Austrian Chancellor threat,Identify the genuine assassination threat among multiple apparent threats,"The assassination threat is identified by combining position, timing, line-of-sight, and behavior rather than appearance alone."
+25,Chimera,Determine whether the pandemic threat has actually been neutralized,Neutralization must be verified through evidence that the virus cannot be released and that the adversary's plan is no longer viable.
+26,The Entity,Determine whether the Entity's attack path has truly been interrupted,The Entity case requires verifying the causal chain after the apparent shutdown rather than assuming the first interruption ended the threat.
+27,Entity key sale,Reconstruct the train operation and identify the point where the plan becomes a survival problem,The train operation changes from an interception to survival once the train's safety assumptions fail and the remaining objective must be reprioritized.
+28,Owen Davian,Determine how the Vatican kidnapping is concealed and what evidence would expose it,The kidnapping is concealed through staged evidence and identity deception; investigators should look for inconsistencies in the apparent death/absence.
+29,Nuclear bombs,Determine what must happen in what order to prevent detonation,The two-device problem requires synchronized action and correct sequencing; failure of one dependency can compromise the whole operation.
+30,Nuclear launch codes,"Resolve the identities of buyer, seller, and intermediary","The identities must be resolved by comparing what each participant knows, where each participant is, and whether their behavior matches the claimed role."

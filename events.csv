@@ -1,0 +1,181 @@
+case_id,event_id,sequence,event_type,event_text
+1,01-E01,1,setup,Team receives the objective involving Gabriel.
+1,01-E02,2,approach,"Agents establish a route or strategy for the operation at Venice, Italy."
+1,01-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+1,01-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+1,01-E05,5,decision,The team chooses between competing objectives under pressure.
+1,01-E06,6,resolution,The mission reaches the documented outcome: Gabriel is not captured; Ethan and Grace are captured/tortured before escaping.
+2,02-E01,1,setup,Team receives the objective involving Entity key / first-half holder.
+2,02-E02,2,approach,"Agents establish a route or strategy for the operation at Empty Quarter, UAE."
+2,02-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+2,02-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+2,02-E05,5,decision,The team chooses between competing objectives under pressure.
+2,02-E06,6,resolution,The mission reaches the documented outcome: The first key half is recovered.
+3,03-E01,1,setup,Team receives the objective involving Bogdan.
+3,03-E02,2,approach,"Agents establish a route or strategy for the operation at Moscow, Russia."
+3,03-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+3,03-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+3,03-E05,5,decision,The team chooses between competing objectives under pressure.
+3,03-E06,6,resolution,The mission reaches the documented outcome: Bogdan is extracted and provides useful intelligence.
+4,04-E01,1,setup,Team receives the objective involving Gennady Zoismov.
+4,04-E02,2,approach,"Agents establish a route or strategy for the operation at Kyiv, Ukraine."
+4,04-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+4,04-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+4,04-E05,5,decision,The team chooses between competing objectives under pressure.
+4,04-E06,6,resolution,The mission reaches the documented outcome: The team obtains the needed information.
+5,05-E01,1,setup,Team receives the objective involving Nyah Nordoff-Hall.
+5,05-E02,2,approach,"Agents establish a route or strategy for the operation at Seville, Spain."
+5,05-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+5,05-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+5,05-E05,5,decision,The team chooses between competing objectives under pressure.
+5,05-E06,6,resolution,The mission reaches the documented outcome: Nyah agrees to participate in the operation.
+6,06-E01,1,setup,Team receives the objective involving Grace.
+6,06-E02,2,approach,"Agents establish a route or strategy for the operation at Rome and Venice, Italy."
+6,06-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+6,06-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+6,06-E05,5,decision,The team chooses between competing objectives under pressure.
+6,06-E06,6,resolution,The mission reaches the documented outcome: Ethan locates Grace but cannot keep her under control; the Venice operation goes badly.
+7,07-E01,1,setup,Team receives the objective involving Sean Ambrose.
+7,07-E02,2,approach,"Agents establish a route or strategy for the operation at Sydney, Australia."
+7,07-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+7,07-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+7,07-E05,5,decision,The team chooses between competing objectives under pressure.
+7,07-E06,6,resolution,The mission reaches the documented outcome: Ethan establishes the purpose of Chimera and advances the operation.
+8,08-E01,1,setup,Team receives the objective involving The IMF mole.
+8,08-E02,2,approach,"Agents establish a route or strategy for the operation at Prague, Czech Republic."
+8,08-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+8,08-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+8,08-E05,5,decision,The team chooses between competing objectives under pressure.
+8,08-E06,6,resolution,"The mission reaches the documented outcome: The team is killed, the list is taken, and Ethan is framed."
+9,09-E01,1,setup,Team receives the objective involving The plutonium cores.
+9,09-E02,2,approach,"Agents establish a route or strategy for the operation at Berlin, Germany."
+9,09-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+9,09-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+9,09-E05,5,decision,The team chooses between competing objectives under pressure.
+9,09-E06,6,resolution,The mission reaches the documented outcome: The cores are lost after Ethan chooses to save Luther.
+10,10-E01,1,setup,Team receives the objective involving Rabbit's Foot.
+10,10-E02,2,approach,"Agents establish a route or strategy for the operation at Shanghai, China."
+10,10-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+10,10-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+10,10-E05,5,decision,The team chooses between competing objectives under pressure.
+10,10-E06,6,resolution,The mission reaches the documented outcome: The Rabbit's Foot is recovered.
+11,11-E01,1,setup,Team receives the objective involving Solomon Lane.
+11,11-E02,2,approach,"Agents establish a route or strategy for the operation at Paris, France."
+11,11-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+11,11-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+11,11-E05,5,decision,The team chooses between competing objectives under pressure.
+11,11-E06,6,resolution,The mission reaches the documented outcome: Lane is extracted from a prisoner convoy.
+12,12-E01,1,setup,Team receives the objective involving The IMF mole.
+12,12-E02,2,approach,Agents establish a route or strategy for the operation at Train between London and Paris.
+12,12-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+12,12-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+12,12-E05,5,decision,The team chooses between competing objectives under pressure.
+12,12-E06,6,resolution,The mission reaches the documented outcome: Ethan exposes the mole and secures the information.
+13,13-E01,1,setup,Team receives the objective involving Syndicate ledger.
+13,13-E02,2,approach,"Agents establish a route or strategy for the operation at Casablanca, Morocco."
+13,13-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+13,13-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+13,13-E05,5,decision,The team chooses between competing objectives under pressure.
+13,13-E06,6,resolution,"The mission reaches the documented outcome: The ledger operation initially fails, forcing an improvised recovery."
+14,14-E01,1,setup,Team receives the objective involving Syndicate shipment.
+14,14-E02,2,approach,"Agents establish a route or strategy for the operation at Minsk, Belarus."
+14,14-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+14,14-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+14,14-E05,5,decision,The team chooses between competing objectives under pressure.
+14,14-E06,6,resolution,The mission reaches the documented outcome: The shipment is intercepted.
+15,15-E01,1,setup,Team receives the objective involving Chimera.
+15,15-E02,2,approach,"Agents establish a route or strategy for the operation at Sydney, Australia."
+15,15-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+15,15-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+15,15-E05,5,decision,The team chooses between competing objectives under pressure.
+15,15-E06,6,resolution,The mission reaches the documented outcome: The facility operation becomes a firefight and the objective is not achieved cleanly.
+16,16-E01,1,setup,Team receives the objective involving John Lark.
+16,16-E02,2,approach,"Agents establish a route or strategy for the operation at Paris, France."
+16,16-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+16,16-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+16,16-E05,5,decision,The team chooses between competing objectives under pressure.
+16,16-E06,6,resolution,The mission reaches the documented outcome: The transaction is disrupted and the investigation identifies the Lark deception.
+17,17-E01,1,setup,Team receives the objective involving Lindsey Farris.
+17,17-E02,2,approach,"Agents establish a route or strategy for the operation at Berlin, Germany."
+17,17-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+17,17-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+17,17-E05,5,decision,The team chooses between competing objectives under pressure.
+17,17-E06,6,resolution,The mission reaches the documented outcome: Lindsey is recovered but dies from an implanted explosive.
+18,18-E01,1,setup,Team receives the objective involving Entity source code.
+18,18-E02,2,approach,"Agents establish a route or strategy for the operation at Svalbard, Norway."
+18,18-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+18,18-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+18,18-E05,5,decision,The team chooses between competing objectives under pressure.
+18,18-E06,6,resolution,The mission reaches the documented outcome: Ethan retrieves the source code and survives with Grace's help.
+19,19-E01,1,setup,Team receives the objective involving Second half of Entity key.
+19,19-E02,2,approach,"Agents establish a route or strategy for the operation at Abu Dhabi, UAE."
+19,19-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+19,19-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+19,19-E05,5,decision,The team chooses between competing objectives under pressure.
+19,19-E06,6,resolution,The mission reaches the documented outcome: The team fails to secure the key during the operation.
+20,20-E01,1,setup,Team receives the objective involving Solomon Lane / Syndicate.
+20,20-E02,2,approach,"Agents establish a route or strategy for the operation at London, England."
+20,20-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+20,20-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+20,20-E05,5,decision,The team chooses between competing objectives under pressure.
+20,20-E06,6,resolution,The mission reaches the documented outcome: The Syndicate is exposed and Lane is captured.
+21,21-E01,1,setup,Team receives the objective involving NOC list.
+21,21-E02,2,approach,"Agents establish a route or strategy for the operation at Langley, Virginia, USA."
+21,21-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+21,21-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+21,21-E05,5,decision,The team chooses between competing objectives under pressure.
+21,21-E06,6,resolution,The mission reaches the documented outcome: The team retrieves the data without immediate detection.
+22,22-E01,1,setup,Team receives the objective involving Kurt Hendricks / Cobalt.
+22,22-E02,2,approach,"Agents establish a route or strategy for the operation at Moscow, Russia."
+22,22-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+22,22-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+22,22-E05,5,decision,The team chooses between competing objectives under pressure.
+22,22-E06,6,resolution,The mission reaches the documented outcome: An explosion destroys part of the Kremlin and the IMF is blamed.
+23,23-E01,1,setup,Team receives the objective involving Kurt Hendricks.
+23,23-E02,2,approach,"Agents establish a route or strategy for the operation at Mumbai, India."
+23,23-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+23,23-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+23,23-E05,5,decision,The team chooses between competing objectives under pressure.
+23,23-E06,6,resolution,The mission reaches the documented outcome: The nuclear launch is prevented and Hendricks is stopped.
+24,24-E01,1,setup,Team receives the objective involving Austrian Chancellor threat.
+24,24-E02,2,approach,"Agents establish a route or strategy for the operation at Vienna, Austria."
+24,24-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+24,24-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+24,24-E05,5,decision,The team chooses between competing objectives under pressure.
+24,24-E06,6,resolution,The mission reaches the documented outcome: The assassination attempt cannot be completely prevented.
+25,25-E01,1,setup,Team receives the objective involving Chimera.
+25,25-E02,2,approach,"Agents establish a route or strategy for the operation at Sydney, Australia."
+25,25-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+25,25-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+25,25-E05,5,decision,The team chooses between competing objectives under pressure.
+25,25-E06,6,resolution,The mission reaches the documented outcome: Ambrose is defeated and the pandemic threat is stopped.
+26,26-E01,1,setup,Team receives the objective involving The Entity.
+26,26-E02,2,approach,Agents establish a route or strategy for the operation at South Africa.
+26,26-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+26,26-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+26,26-E05,5,decision,The team chooses between competing objectives under pressure.
+26,26-E06,6,resolution,The mission reaches the documented outcome: The team succeeds in stopping the Entity's immediate threat.
+27,27-E01,1,setup,Team receives the objective involving Entity key sale.
+27,27-E02,2,approach,"Agents establish a route or strategy for the operation at Innsbruck, Austria."
+27,27-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+27,27-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+27,27-E05,5,decision,The team chooses between competing objectives under pressure.
+27,27-E06,6,resolution,"The mission reaches the documented outcome: The key sale is disrupted, but the train disaster causes major losses."
+28,28-E01,1,setup,Team receives the objective involving Owen Davian.
+28,28-E02,2,approach,"Agents establish a route or strategy for the operation at Vatican City, Rome."
+28,28-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+28,28-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+28,28-E05,5,decision,The team chooses between competing objectives under pressure.
+28,28-E06,6,resolution,The mission reaches the documented outcome: Davian is captured and transported out.
+29,29-E01,1,setup,Team receives the objective involving Nuclear bombs.
+29,29-E02,2,approach,Agents establish a route or strategy for the operation at Siachen Glacier.
+29,29-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+29,29-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+29,29-E05,5,decision,The team chooses between competing objectives under pressure.
+29,29-E06,6,resolution,The mission reaches the documented outcome: The bombs are defused before detonation.
+30,30-E01,1,setup,Team receives the objective involving Nuclear launch codes.
+30,30-E02,2,approach,"Agents establish a route or strategy for the operation at Dubai, UAE."
+30,30-E03,3,complication,"An unexpected obstacle, deception, or security problem changes the available options."
+30,30-E04,4,reversal,New information forces the team to reconsider its initial assumption.
+30,30-E05,5,decision,The team chooses between competing objectives under pressure.
+30,30-E06,6,resolution,The mission reaches the documented outcome: The code exchange is not fully controlled and the mission becomes a chase.
